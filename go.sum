@@ -9,6 +9,7 @@ github.com/alecthomas/units v0.0.0-20190717042225-c3de453c63f4/go.mod h1:ybxpYRF
 github.com/alexedwards/scs v1.4.1/go.mod h1:JRIFiXthhMSivuGbxpzUa0/hT5rz2hpyw61Bmd+S1bg=
 github.com/alicebob/gopher-json v0.0.0-20180125190556-5a6b3ba71ee6/go.mod h1:SGnFV6hVsYE877CKEZ6tDNTjaSXYUk6QqoIK6PrAtcc=
 github.com/alicebob/miniredis v2.5.0+incompatible/go.mod h1:8HZjEj4yU0dwhYHky+DxYx+6BMjkBbe5ONFIF1MXffk=
+github.com/aliyun/aliyun-oss-go-sdk v2.1.4+incompatible/go.mod h1:T/Aws4fEfogEE9v+HPhhw+CntffsBHJ8nXQCwKr0/g8=
 github.com/andybalholm/cascadia v1.1.0 h1:BuuO6sSfQNFRu1LppgbD25Hr2vLYW25JvxHs5zzsLTo=
 github.com/andybalholm/cascadia v1.1.0/go.mod h1:GsXiBklL0woXo1j/WYWtSYYC4ouU9PqHO0sqidkEA4Y=
 github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535 h1:4daAzAu0S6Vi7/lbWECcX0j45yZReDZ56BQsrVBOEEY=
@@ -18,6 +19,7 @@ github.com/aws/aws-sdk-go v1.35.10 h1:FsJtrOS7P+Qmq1rPTGgS/+qC1Y9eGuAJHvAZpZlhmb
 github.com/aws/aws-sdk-go v1.35.10/go.mod h1:tlPOdRjfxPBpNIwqDj61rmsnA85v9jc0Ps9+muhnW+k=
 github.com/aymerick/douceur v0.2.0 h1:Mv+mAeH1Q+n9Fr+oyamOlAkUNPWPlA8PPGR0QAaYuPk=
 github.com/aymerick/douceur v0.2.0/go.mod h1:wlT5vV2O3h55X9m7iVYN0TBM0NH/MmbLnd30/FjWUq4=
+github.com/baiyubin/aliyun-sts-go-sdk v0.0.0-20180326062324-cfa1a18b161f/go.mod h1:AuiFmCCPBSrqvVMvuqFuk0qogytodnVFVSN5CeJB8Gc=
 github.com/beego/goyaml2 v0.0.0-20130207012346-5545475820dd/go.mod h1:1b+Y/CofkYwXMUU0OhQqGvsY2Bvgr4j6jfT699wyZKQ=
 github.com/beego/x2j v0.0.0-20131220205130-a0352aadc542/go.mod h1:kSeGC/p1AbBiEp5kat81+DSQrZenVBZXklMLaELspWU=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
@@ -164,6 +166,8 @@ github.com/prometheus/common v0.10.0/go.mod h1:Tlit/dnDKsSWFlCLTWaA1cyBgKHSMdTB8
 github.com/prometheus/procfs v0.0.0-20181005140218-185b4288413d/go.mod h1:c3At6R/oaqEKCNdg8wHV1ftS6bRYblBhIjjI8uT2IGk=
 github.com/prometheus/procfs v0.0.2/go.mod h1:TjEm7ze935MbeOT/UhFTIMYKhuLP4wbCsTZCD3I8kEA=
 github.com/prometheus/procfs v0.1.3/go.mod h1:lV6e/gmhEcM9IjHGsFOCxxuZ+z1YqCvr4OA4YeYWdaU=
+github.com/qiniu/api.v7 v7.2.5+incompatible/go.mod h1:V8/EzlTgLN6q0s0CJmg/I81ytsvldSF22F7h6MI02+c=
+github.com/qiniu/api.v7/v7 v7.6.0/go.mod h1:zg3DaqU8mVnoQSQmtC/Mr2wXTJIE7fvcup+7sMt58Q0=
 github.com/qor/admin v0.0.0-20201015070726-29e78837de93 h1:volVSra7YpwXnWrQ0p5U5PPYKD9uZZ+RUyz29WRR++k=
 github.com/qor/admin v0.0.0-20201015070726-29e78837de93/go.mod h1:TiMo/I9p4pjVFtLI8+ellx2YbeiirVYcoh5UrQc9v9I=
 github.com/qor/assetfs v0.0.0-20170713023933-ff57fdc13a14 h1:JRpyNNSRAkwNHd4WgyPcalTAhxOCh3eFNMoQkxWhjSw=
@@ -174,6 +178,7 @@ github.com/qor/middlewares v0.0.0-20170822143614-781378b69454 h1:+WCc1IigwWpWBxM
 github.com/qor/middlewares v0.0.0-20170822143614-781378b69454/go.mod h1:PejEyg3hS+Toh5m0AKRv2jK5br8qIoHLqmHrpg0WJYg=
 github.com/qor/oss v0.0.0-20191031055114-aef9ba66bf76 h1:J2Xj92efYLxPl3BiibgEDEUiMsCBzwTurE/8JjD8CG4=
 github.com/qor/oss v0.0.0-20191031055114-aef9ba66bf76/go.mod h1:JhtPzUhP5KGtCB2yksmxuYAD4hEWw4qGQJpucjsm3U0=
+github.com/qor/qor v0.0.0-20200715033016-13227382be83 h1:IUnJgj3vY/1MAgZx/Hf+IAqe4Kn5NedjumfmFIm0xKo=
 github.com/qor/qor v0.0.0-20200715033016-13227382be83/go.mod h1:oG+LgDEnsI9avcFFdczoZnBe3rw42s4cG433w6XpEig=
 github.com/qor/qor v0.0.0-20200729071734-d587cffbbb93 h1:kxseRCbX7NxSvKYSO1rXQCALzl3YLZvooxhhQdA23fU=
 github.com/qor/qor v0.0.0-20200729071734-d587cffbbb93/go.mod h1:i3WqgQWpyNJRB9D3ewgthf5/8fR/ALcvPGUqu5vHZA8=
@@ -187,20 +192,28 @@ github.com/qor/session v0.0.0-20170907035918-8206b0adab70 h1:8l21EEdlZ9R0AA3FbeU
 github.com/qor/session v0.0.0-20170907035918-8206b0adab70/go.mod h1:ldgcaca0ZGx6tFtd/w0ELq5jHD/KLJ1Lbdn8qhr/pQ0=
 github.com/qor/validations v0.0.0-20171228122639-f364bca61b46 h1:dRlsVUhwD1pwrasuVbNooGQITYjKzmXK5eYoEEvBGQI=
 github.com/qor/validations v0.0.0-20171228122639-f364bca61b46/go.mod h1:UJsA0AuvrKNaWtrb1UzKai10mN3ZBbQkPjUHpxwahTc=
+github.com/qorx/admin v0.0.0-20201020015642-93a69fd8c11a/go.mod h1:Q7P2wdtG0Jjvo7LLdU/H2cY06tfsL4S3qjCEUlyOWXQ=
 github.com/qorx/assetfs v0.0.0-20201020013212-04974a94f8eb h1:eMhwL7p3xb3udofz4lWQsb8vr9+yEEL1Wk65h6lL3gc=
 github.com/qorx/assetfs v0.0.0-20201020013212-04974a94f8eb/go.mod h1:Oi/rq5uCOWFeo/DXrGKu1Ac23zpf1ChLqobVFyGi550=
+github.com/qorx/media v0.0.0-20201020021026-f8b8a753b683 h1:McsAku/f0ABao59FWRUzQFYUjghJU2S+Ba7A9GQmqRc=
+github.com/qorx/media v0.0.0-20201020021026-f8b8a753b683/go.mod h1:G13DVIJcYv6VUbbpbC9JmZ9oKYGfxjsyjMROv07zbis=
 github.com/qorx/middlewares v0.0.0-20201020012105-dd62b061844a h1:FxzXCHcW2kT/P+i9Si8icBV4g1q22j6J4bsye3M+VOE=
 github.com/qorx/middlewares v0.0.0-20201020012105-dd62b061844a/go.mod h1:Tscq2hp1qAFL64d94YNf5hzafmRMRplvD0yzIkADjjI=
+github.com/qorx/oss v0.0.0-20201020014320-d83e2984927e h1:RLGoCL1Duier66RCNZrz8Vz8veOgvJmTJUsIYpNxlcU=
+github.com/qorx/oss v0.0.0-20201020014320-d83e2984927e/go.mod h1:XgSeNUj9M6YMHPh/IC2pzFfsK/gePbr68fGrnhmzocs=
 github.com/qorx/qor v0.0.0-20201020011259-aba033f76660 h1:HvwOyYl1y0xGLZKVewXnevlta4u/JBhMwE1kN8GxyCg=
 github.com/qorx/qor v0.0.0-20201020011259-aba033f76660/go.mod h1:Ra9MAlb18OqNEHf5smgk1sTuKVtSGK63SLond36frns=
 github.com/qorx/responder v0.0.0-20201020013601-7980abec8673 h1:M1WZ2LuvZuzloYxjPttL5h7pCYkH15IPCnDNjzSuU2k=
 github.com/qorx/responder v0.0.0-20201020013601-7980abec8673/go.mod h1:wWJP0CpLMAIT+obIC8nH4LCNzIGh5bigilboa9wYWn4=
 github.com/qorx/roles v0.0.0-20201020005204-2cc3750e360f h1:0y0xBuDYapitInhzDw8Mt3mTNzIakehb7mZo1SNg3po=
 github.com/qorx/roles v0.0.0-20201020005204-2cc3750e360f/go.mod h1:eMVxLuXqQN9TREQZqqn9pTxNmhqaIrGCFZOIuvl7mhk=
+github.com/qorx/serializable_meta v0.0.0-20201020015819-b1b0ff799611 h1:X3lLG7XiDkp2rI9m97q3u7H0Fg6NHP5nj3Au2OFGXoM=
+github.com/qorx/serializable_meta v0.0.0-20201020015819-b1b0ff799611/go.mod h1:kSP9BQ3trjECxZgURrJaBd89rR+YhglfYD5FK2phuNc=
 github.com/qorx/session v0.0.0-20201020012802-cba97e41f116 h1:7xYhOQ5l1lE8EN7YP6OTY64yTLMr7/P+wYWqyfYtQFw=
 github.com/qorx/session v0.0.0-20201020012802-cba97e41f116/go.mod h1:Inxzesq/gItgShQLrbmE6AHL1yJTb3VDp6konXgJg3k=
 github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be h1:ta7tUOvsPHVHGom5hKW5VXNc2xZIkfCKP8iaqOyYtUQ=
 github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be/go.mod h1:MIDFMn7db1kT65GmV94GzpX9Qdi7N/pQlwb+AN8wh+Q=
+github.com/satori/go.uuid v1.2.0/go.mod h1:dA0hQrYB0VpLJoorglMZABFdXlWrHn1NEOzdhQKdks0=
 github.com/shiena/ansicolor v0.0.0-20151119151921-a422bbe96644/go.mod h1:nkxAfR/5quYxwPZhyDxgasBMnRtBZd0FCEpawpjMUFg=
 github.com/siddontang/go v0.0.0-20170517070808-cb568a3e5cc0/go.mod h1:3yhqj7WBBfRhbBlzyOC3gUxftwsU0u8gqevxwIHQpMw=
 github.com/siddontang/goredis v0.0.0-20150324035039-760763f78400/go.mod h1:DDcKzU3qCuvj/tPnimWSsZZzvk9qvkvrIL5naVBPh5s=
@@ -215,6 +228,7 @@ github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UV
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/syndtr/goleveldb v0.0.0-20160425020131-cfa635847112/go.mod h1:Z4AUp2Km+PwemOoO/VB5AOx9XSsIItzFjoJlOSiYmn0=
 github.com/syndtr/goleveldb v0.0.0-20181127023241-353a9fca669c/go.mod h1:Z4AUp2Km+PwemOoO/VB5AOx9XSsIItzFjoJlOSiYmn0=
+github.com/theplant/bimg v1.1.0/go.mod h1:H0qlp9lKZoOO4akI0VxEtxO8lgLBLNuhF/+2U00LSPg=
 github.com/theplant/cldr v0.0.0-20190423050709-9f76f7ce4ee8 h1:di0cR5qqo2DllBMwmP75kZpUX6dAXhsn1O2dshQfMaA=
 github.com/theplant/cldr v0.0.0-20190423050709-9f76f7ce4ee8/go.mod h1:MIL7SmF8wRAYDn+JexczVRUiJXTCi4VbQavsCKWKwXI=
 github.com/theplant/htmltestingutils v0.0.0-20190423050759-0e06de7b6967 h1:yPrgtU8bj7Q/XbXgjjmngZtOhsUufBAraruNwxv/eXM=
@@ -266,6 +280,7 @@ golang.org/x/sys v0.0.0-20200615200032-f1bc736245b1 h1:ogLJMz+qpzav7lGMh10LMvAkM
 golang.org/x/sys v0.0.0-20200615200032-f1bc736245b1/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/text v0.3.0 h1:g61tztE5qeGQ89tm6NTjjM9VPIm088od1l6aSorWRWg=
 golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e/go.mod h1:tRJNPiyCQ0inRvYxbN9jk5I+vvW/OXSQhTDSoE431IQ=
 golang.org/x/tools v0.0.0-20200117065230-39095c1d176c/go.mod h1:TB2adYChydJhpapKDTa4BR/hXlZSLoq2Wpct/0txZ28=
 golang.org/x/xerrors v0.0.0-20191011141410-1b5146add898/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=

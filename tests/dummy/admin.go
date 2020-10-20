@@ -3,8 +3,8 @@ package dummy
 import (
 	"fmt"
 
-	"github.com/qor/admin"
-	"github.com/qor/media"
+	"github.com/qorx/admin"
+	"github.com/qorx/media"
 	"github.com/qorx/qor"
 	"github.com/qorx/qor/test/utils"
 )

@@ -5,8 +5,8 @@ import (
 	"net/http/httptest"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/admin"
-	. "github.com/qor/admin/tests/dummy"
+	"github.com/qorx/admin"
+	. "github.com/qorx/admin/tests/dummy"
 )
 
 var (

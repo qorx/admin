@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/qor/admin/tests/dummy"
+	. "github.com/qorx/admin/tests/dummy"
 	"github.com/qorx/qor"
 	"github.com/qorx/qor/resource"
 )
