@@ -5,9 +5,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/qor/qor"
-	"github.com/qor/qor/utils"
-	"github.com/qor/roles"
+	"github.com/qorx/qor"
+	"github.com/qorx/qor/utils"
+	"github.com/qorx/roles"
 )
 
 // ActionArgument action argument that used in handle

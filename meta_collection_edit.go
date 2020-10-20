@@ -3,7 +3,7 @@ package admin
 import (
 	"errors"
 
-	"github.com/qor/qor/resource"
+	"github.com/qorx/qor/resource"
 )
 
 // CollectionEditConfig meta configuration used for collection edit

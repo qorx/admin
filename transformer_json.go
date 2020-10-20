@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"reflect"
 
-	"github.com/qor/roles"
+	"github.com/qorx/roles"
 )
 
 // JSONTransformer json transformer

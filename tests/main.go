@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/qor/admin/tests/dummy"
-	"github.com/qor/qor/utils"
+	"github.com/qorx/qor/utils"
 )
 
 func main() {

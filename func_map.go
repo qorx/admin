@@ -19,10 +19,10 @@ import (
 
 	"github.com/jinzhu/gorm"
 	"github.com/jinzhu/inflection"
-	"github.com/qor/qor"
-	"github.com/qor/qor/utils"
-	"github.com/qor/roles"
-	"github.com/qor/session"
+	"github.com/qorx/qor"
+	"github.com/qorx/qor/utils"
+	"github.com/qorx/roles"
+	"github.com/qorx/session"
 )
 
 // FuncMap funcs map for current context

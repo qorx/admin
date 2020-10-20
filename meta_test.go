@@ -7,8 +7,8 @@ import (
 	. "github.com/qor/admin/tests/dummy"
 
 	"github.com/qor/admin"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
+	"github.com/qorx/qor"
+	"github.com/qorx/qor/resource"
 )
 
 func TestTextInput(t *testing.T) {

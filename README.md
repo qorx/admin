@@ -70,7 +70,7 @@ func main() {
 ## Live DEMO
 
 * Live Demo [http://demo.getqor.com/admin](http://demo.getqor.com/admin)
-* Source Code of Live Demo [https://github.com/qor/qor-example](https://github.com/qor/qor-example)
+* Source Code of Live Demo [https://github.com/qorx/qor-example](https://github.com/qorx/qor-example)
 
 ## Documentation
 

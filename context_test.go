@@ -6,8 +6,8 @@ import (
 
 	"github.com/qor/admin"
 	. "github.com/qor/admin/tests/dummy"
-	"github.com/qor/qor"
-	"github.com/qor/roles"
+	"github.com/qorx/qor"
+	"github.com/qorx/roles"
 )
 
 // Template helpers test

@@ -2,9 +2,9 @@ package admin
 
 import (
 	"github.com/jinzhu/gorm"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	"github.com/qor/qor/utils"
+	"github.com/qorx/qor"
+	"github.com/qorx/qor/resource"
+	"github.com/qorx/qor/utils"
 )
 
 // Filter filter definiation

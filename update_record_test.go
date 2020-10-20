@@ -14,8 +14,8 @@ import (
 	"testing"
 
 	. "github.com/qor/admin/tests/dummy"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
+	"github.com/qorx/qor"
+	"github.com/qorx/qor/resource"
 )
 
 func TestUpdateRecord(t *testing.T) {
